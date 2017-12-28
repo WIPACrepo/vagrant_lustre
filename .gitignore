@@ -1,0 +1,8 @@
+/.vagrant
+/hosts
+/id_rsa
+/id_rsa.pub
+/puppet/.librarian
+/puppet/.tmp
+/puppet/Puppetfile.lock
+/puppet/modules/kmod

@@ -1,0 +1,1 @@
+class { 'lustre::client::mount': }
